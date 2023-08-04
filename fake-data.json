@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Nikon DF",
+    "img": "https://binhminhdigital.com/storedata/images/product/nikon-df-body(1).jpg",
+    "salePrice":50000000,
+    "price": 65000000,
+    "desc": "mo hinh 1/64"
+  },
+  {
+    "id": 2,
+    "name": "CANON EOS R BODY  ",
+    "img": "https://binhminhdigital.com/StoreData/images/Product/may-anh-canon-eos-r-hang-nhap-khau.jpg",
+    "salePrice": 	34500000,
+    "price": 45000000,
+    "desc": "mo hinh 1/64"
+  },
+  {
+    "id": 3,
+    "name": " Sony A1",
+    "img": "https://product.hstatic.net/1000304519/product/sony_a1_body_001_cd20c451f6684ccc906412bb14e8a64a_1024x1024.jpg",
+    "salePrice": 40000000,
+    "price": 42990000,
+    "desc": "mo hinh 1/64"
+  },
+  {
+    "id": 4,
+    "name": "NIKON Z8 ",
+    "img": "https://binhminhdigital.com/StoreData/Images/Product/camera/nikon/may-anh-nikon-z8-body-only-chinh-hang.jpg",
+    "salePrice": 85000000,
+    "price": 	89990000,
+    "desc": "mo hinh 1/64"
+  },
+  {
+
+    "id": 5,
+    "name": " NIKON D5 BODY",
+    "img": "https://binhminhdigital.com/StoreData/images/Product/nikon-d5-body(1).jpg",
+    "salePrice": 122000000,
+    "price": 13000000,
+    "desc": "mo hinh 1/64"
+  },
+  {
+
+    "id": 6,
+    "name": " FUJIFILM X-T30 MARK II + KIT XF 18-55MM F/2.8-4/ SLIVER",
+    "img": "https://binhminhdigital.com/StoreData/Images/Product/camera/fujifilm/XT30II/fujifilm-xt30-mark-ii-kit-xf-1855mm-sliver.jpg",
+    "salePrice": 	30990000,
+    "price": 	31990000,
+    "desc": "mo hinh 1/64"
+  },
+  {
+
+    "id": 7,
+    "name": " FUJIFILM X-T5 (SILVER) BODY ONLY",
+    "img": "https://binhminhdigital.com/StoreData/Images/Product/may-anh-fujifilm-xt5-silver-body-only-chinh-hang-1.jpg",
+    "salePrice": 43490000,
+    "price": 41490000,
+    "desc": "mo hinh 1/64"
+  },
+  {
+
+    "id": 8,
+    "name": " LEICA Q TITANIUM GRAY",
+    "img": "https://binhminhdigital.com/StoreData/images/Product/may-anh-leica-q-titanium-gray.jpg",
+    "salePrice": 113000000,
+    "price": 115000000,
+    "desc": "mo hinh 1/64"
+  },
+  {
+
+    "id": 9,
+    "name": " Hasselblad X1D II 50C",
+    "img": "https://cdn.vjshop.vn/may-anh/medium-format/hasselblad/hasselblad-x1d-ii-50c/may-anh-hasselblad-x1d-ii-50c-500x500.jpg",
+    "salePrice": 160000000,
+    "price": 17000000,
+    "desc": "mo hinh 1/64"
+  },
+  {
+
+    "id": 10,
+    "name": " Sony Alpha A7S Mark III ",
+    "img": "https://binhminhdigital.com/StoreData/images/Product/may-anh-sony-alpha-a7s-mark-iii(2).jpg",
+    "salePrice": 85000000,
+    "price": 89000000,
+    "desc": "mo hinh 1/64"
+  }
+
+  
+]
